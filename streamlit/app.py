@@ -18,4 +18,3 @@ if submit:
     st.write(f"Usia : {usia}")
     st.write(f"Email : {email}")
 
-    
